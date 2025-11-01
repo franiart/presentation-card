@@ -33,8 +33,9 @@ El proyecto combina una interfaz minimalista, animaciones suaves y buenas práct
 /assets
 ├── /images → imágenes y favicon / images & favicon
 ├── /fonts → fuentes locales / local fonts
-├── /css → estilos principales / main styles
-└── /js → scripts futuros / future scripts
+└── /css → estilos principales / main styles
+index.html
+README.md
 
 ---
 

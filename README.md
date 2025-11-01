@@ -19,7 +19,7 @@ El proyecto combina una interfaz minimalista, animaciones suaves y buenas práct
 ## 🧩 Tecnologías
 
 | Categoría | Tecnología |
-|------------|-------------|
+------------|-------------|
 | Estructura | HTML5 |
 | Estilos | CSS3 |
 | Íconos | Bootstrap Icons |
@@ -30,14 +30,11 @@ El proyecto combina una interfaz minimalista, animaciones suaves y buenas práct
 
 ## 🗂️ Estructura del proyecto
 
-📁 Estructura general de carpetas:
-
-/assets/
-    📷 /images/ → imágenes y favicon
-    🔤 /fonts/ → fuentes locales (Phenomena Bold / Light)
-    🎨 /css/ → estilos principales (style.css)
-🧱 index.html → archivo principal de la tarjeta
-📘 README.md → documentación del proyecto
+|/assets
+|├── /images → imágenes y favicon / images & favicon
+|├── /fonts → fuentes locales / local fonts
+|├── /css → estilos principales / main styles
+|└── /js → scripts futuros / future scripts
 
 ---
 

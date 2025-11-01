@@ -30,13 +30,14 @@ El proyecto combina una interfaz minimalista, animaciones suaves y buenas práct
 
 ## 🗂️ Estructura del proyecto
 
-/assets
-├── /css → estilos principales / main styles
-├── /fonts → fuentes locales / local fonts
-├── /images → imágenes y favicon / images and favicon
-└── /js → scripts futuros / future scripts
-index.html
-README.md
+📁 Estructura general de carpetas:
+
+/assets/
+    📷 /images/ → imágenes y favicon
+    🔤 /fonts/ → fuentes locales (Phenomena Bold / Light)
+    🎨 /css/ → estilos principales (style.css)
+🧱 index.html → archivo principal de la tarjeta
+📘 README.md → documentación del proyecto
 
 ---
 

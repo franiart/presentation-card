@@ -30,11 +30,11 @@ El proyecto combina una interfaz minimalista, animaciones suaves y buenas práct
 
 ## 🗂️ Estructura del proyecto
 
-|/assets
-|├── /images → imágenes y favicon / images & favicon
-|├── /fonts → fuentes locales / local fonts
-|├── /css → estilos principales / main styles
-|└── /js → scripts futuros / future scripts
+/assets
+├── /images → imágenes y favicon / images & favicon
+├── /fonts → fuentes locales / local fonts
+├── /css → estilos principales / main styles
+└── /js → scripts futuros / future scripts
 
 ---
 

@@ -50,5 +50,5 @@ git clone https://github.com/tuusuario/nombre-del-repo.git
 cd nombre-del-repo
 open index.html
 
-## O simplemente ábrelo en tu navegador
+### O simplemente ábrelo en tu navegador
 
